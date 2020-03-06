@@ -22,7 +22,7 @@ const routes: Routes = [
 {
   path:"contato",
   component:ContatoComponent
-},  
+}, 
 
 {
   path: "**",
